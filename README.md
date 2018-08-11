@@ -1,2 +1,1 @@
-# Text_Python_Error
-I am creating a texting program using python
+#I get random errors that seem false
